@@ -1,0 +1,18 @@
+[
+  {
+    "titulo": "Hacer ejercicios de JavaScript",
+    "estado": "En progreso"
+  },
+  {
+    "titulo": "Armar aplicación de Tareas",
+    "estado": "Terminada"
+  },
+  {
+    "titulo": "Ver una serie",
+    "estado": "Pendiente"
+  },
+  {
+    "titulo": "Conseguir trabajo",
+    "estado": "En proceso"
+  }
+]
